@@ -67,18 +67,18 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tfoot></tfoot>
 </table>
 
-## Instrutora
+## Desenvolvedor front-end 
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/Wallacet28"/>
     </td>
     <td align="left">
-      <a href="https://github.com/elidianaandrade">
-        <span><b>Elidiana Andrade</b></span>
+      <a href="https://github.com/Wallacet28">
+        <span><b>Wallace Tadeu</b></span>
       </a>
       <br>
-      <span>Desenvolvedora Front-end</span>
+      <span>Desenvolvedor Front-end</span>
     </td>
   </tr>
 </table>
@@ -93,4 +93,4 @@ Introduzir ao versionamento de código com Git e GitHub.
 - [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Feito Wallace Tadeu</a>.</div>
